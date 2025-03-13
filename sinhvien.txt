@@ -1,0 +1,40 @@
+SV001
+Le Hoan
+2000
+8.5
+SV002
+Nguyen Van A
+2001
+7.0
+SV003
+Tran Thi B
+2002
+9.0
+SV004
+Nguyen Van C
+2000
+6.5
+SV005
+Hoang Thi D
+2001
+8.0
+SV006
+Le Van E
+2002
+7.5
+SV007
+Nguyen Thi F
+2000
+9.5
+SV008
+Tran Van G
+2001
+5.0
+SV009
+Le Van H
+2002
+6.0
+SV010
+Hoang Van I
+2000
+8.2
